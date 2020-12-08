@@ -1,0 +1,13 @@
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\bin\Debug\netcoreapp3.1\CupSorter.exe
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\bin\Debug\netcoreapp3.1\CupSorter.deps.json
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\bin\Debug\netcoreapp3.1\CupSorter.runtimeconfig.json
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\bin\Debug\netcoreapp3.1\CupSorter.runtimeconfig.dev.json
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\bin\Debug\netcoreapp3.1\CupSorter.dll
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\bin\Debug\netcoreapp3.1\CupSorter.pdb
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.csprojAssemblyReference.cache
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.csproj.CoreCompileInputs.cache
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.AssemblyInfoInputs.cache
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.AssemblyInfo.cs
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.dll
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.pdb
+C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CupSorter\obj\Debug\netcoreapp3.1\CupSorter.genruntimeconfig.cache
