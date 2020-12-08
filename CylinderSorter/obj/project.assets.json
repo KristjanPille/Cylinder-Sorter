@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kristjan\\icd0009-2019s\\Topside_Sortija\\CylinderSorter\\CylinderSorter.csproj",
+      "projectUniqueName": "C:\\Users\\kristjan\\Desktop\\Cylinder-Sorter\\CylinderSorter\\CylinderSorter.csproj",
       "projectName": "CylinderSorter",
-      "projectPath": "C:\\Users\\kristjan\\icd0009-2019s\\Topside_Sortija\\CylinderSorter\\CylinderSorter.csproj",
+      "projectPath": "C:\\Users\\kristjan\\Desktop\\Cylinder-Sorter\\CylinderSorter\\CylinderSorter.csproj",
       "packagesPath": "C:\\Users\\kristjan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kristjan\\icd0009-2019s\\Topside_Sortija\\CylinderSorter\\obj\\",
+      "outputPath": "C:\\Users\\kristjan\\Desktop\\Cylinder-Sorter\\CylinderSorter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

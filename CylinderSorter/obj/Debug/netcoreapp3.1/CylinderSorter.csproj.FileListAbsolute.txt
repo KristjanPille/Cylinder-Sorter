@@ -11,3 +11,16 @@ C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CylinderSorter\obj\Debug\netcore
 C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.dll
 C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.pdb
 C:\Users\kristjan\icd0009-2019s\Topside_Sortija\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.genruntimeconfig.cache
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\bin\Debug\netcoreapp3.1\CylinderSorter.exe
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\bin\Debug\netcoreapp3.1\CylinderSorter.deps.json
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\bin\Debug\netcoreapp3.1\CylinderSorter.runtimeconfig.json
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\bin\Debug\netcoreapp3.1\CylinderSorter.runtimeconfig.dev.json
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\bin\Debug\netcoreapp3.1\CylinderSorter.dll
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\bin\Debug\netcoreapp3.1\CylinderSorter.pdb
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.csprojAssemblyReference.cache
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.AssemblyInfoInputs.cache
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.AssemblyInfo.cs
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.csproj.CoreCompileInputs.cache
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.dll
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.pdb
+C:\Users\kristjan\Desktop\Cylinder-Sorter\CylinderSorter\obj\Debug\netcoreapp3.1\CylinderSorter.genruntimeconfig.cache

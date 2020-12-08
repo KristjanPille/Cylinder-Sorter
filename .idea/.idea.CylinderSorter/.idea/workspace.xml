@@ -23,16 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20bc3487-d0d8-4050-a56a-7479fd267d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CylinderSorter/CylinderSorter.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AspSolution/DAL.App.EF/Helpers/DataInitializers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AspSolution/DAL.App.EF/Helpers/DataInitializers.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AspSolution/Domain.App/Check.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AspSolution/Domain.App/Check.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AspSolution/WebApp/ApiControllers/1.0/PaymentMethodsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AspSolution/WebApp/ApiControllers/1.0/PaymentMethodsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AspSolution/WebApp/ApiControllers/1.0/ServicesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AspSolution/WebApp/ApiControllers/1.0/ServicesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Views/Home/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Views/Quizzes/Answer.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Views/Quizzes/Answer.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2019s/WebApp/WebApp/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CylinderSorter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CylinderSorter/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CylinderSorter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CylinderSorter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/CylinderSorter.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/CylinderSorter.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/Debug/netcoreapp3.1/CylinderSorter.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CylinderSorter/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CylinderSorter/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lMu5uhDg98c3LAxKkXHAhQvd69" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,13 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1607419107181</updated>
       <workItem from="1607419111021" duration="25000" />
+      <workItem from="1607421303598" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,26 +102,31 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607419135306">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607421512982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607419135306" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607419135306">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607421512982" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607421512982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607419135306" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607419135306">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607421512982" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607421512982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607419135306" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607419135306">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607421512982" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607421512982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607419135306" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607421512982" />
+    <state x="638" y="253" width="644" height="534" key="find.popup" timestamp="1607421509891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="253" width="644" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607421509891" />
   </component>
 </project>
