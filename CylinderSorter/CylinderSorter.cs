@@ -1,5 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using CylinderSorter.Domain;
 
 namespace CylinderSorter
@@ -9,11 +11,14 @@ namespace CylinderSorter
     */
     public class CylinderSorter
     {
-        // Takes list of cylinders and sorts it by volume.
-        // Duplicates are moved to new list and any additional
-        // duplicates from that list are moved to new list and so on
-        // until all cylinders are sorted in optimal way.
-        public static List<List<Cylinder>> CylinderListSorter(List<Cylinder> cylinderList)
+        /*
+         Takes list of cylinders and sorts it by volume.
+         Duplicates are moved to new list and any additional
+         duplicates from that list are moved to new list and so on
+         until all cylinders are sorted in optimal way.
+         For the sake of test, return type is string.
+        */
+        public static string CylinderListSorter(List<Cylinder> cylinderList)
         {
             List<List<Cylinder>> nestedCylinderList = new List<List<Cylinder>>();
             
@@ -34,7 +39,18 @@ namespace CylinderSorter
 
                 result = result.Except(nonDuplicateList).OrderBy(a=>a.Volume).Reverse().ToList();
             }
-            return nestedCylinderList;
+            
+            StringBuilder sb = new StringBuilder();
+            foreach (var list in nestedCylinderList)
+            {
+                foreach (var item in list)
+                {
+                    sb.AppendFormat("Cylinder ID: " + item.ID + ", Cylinder Volume: " + item.Volume + "{0}", Environment.NewLine);
+                }
+                sb.AppendFormat("-----------------------------------------{0}", Environment.NewLine);
+            }
+            
+            return sb.ToString();
         }
 
         // Returns list without duplicates
